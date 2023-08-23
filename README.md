@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sofibrah (Sophia Ibrahimova)
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning g java development at Yandex Practicum
+- 🌱 I’m currently learning java development at Yandex Practicum
 - 💞️ I’m looking for an internship or a job
 - 📫 How to reach me ibragimovasofi@gmail.com
 
